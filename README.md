@@ -28,7 +28,7 @@ ___________________________________________________________________
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/neverova.natali/">
-  <img align="left" alt="instagram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+  <img align="left" alt="instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FQ8f7BcyjujDr0ScelktC3iKcCWDK1yzRA&usqp=CAU" />
 </a>
 
 
