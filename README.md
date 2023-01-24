@@ -2,7 +2,6 @@
 
 👀 I’m interested in numbers, analytics and problem solving
 
-🌱 I’m currently learning data science
 
 ___________________________________________________________________
 
