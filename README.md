@@ -1,6 +1,6 @@
 ### Hi, I’m Natali 👋 
 
-👀 I’m interested in numbers, analytics and problem solving
+👀  ᠌Passionate problem-solver with a love for technology and innovation.
 
 
 ___________________________________________________________________
