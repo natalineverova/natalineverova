@@ -8,6 +8,8 @@ ___________________________________________________________________
 ### 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
+![Selenium](https://img.shields.io/badge/-selenium-blue)
+![Postman](https://img.shields.io/badge/-postman-blue)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-blue)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue)
